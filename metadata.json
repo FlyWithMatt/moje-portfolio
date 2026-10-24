@@ -1,0 +1,6 @@
+{
+  "name": "Hotel UGC - Video Portfolio",
+  "description": "Minimalistyczna strona portfolio twórcy wideo UGC dla hoteli i resortów (PL/EN).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
